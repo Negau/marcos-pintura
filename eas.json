@@ -14,7 +14,7 @@
       "developmentClient": true
     },
     "preview4": {
-      "distribution": "internal"
+      "distribution": "external"
     },
     "production": {}
   }
