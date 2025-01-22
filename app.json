@@ -12,8 +12,7 @@
         },
         "updates": {
           "fallbackToCacheTimeout": 0,
-          "url": "https://u.expo.dev/your-project-id" // Remova esta linha se não usar EAS
-        },
+          },
         "assetBundlePatterns": [
           "**/*"
         ],
