@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-    import { StyleSheet, View, TouchableOpacity, Text } from 'react-native';
+    import { StyleSheet, View, TouchableOpacity } from 'react-native';
     import { GestureHandlerRootView } from 'react-native-gesture-handler';
     import { Canvas, Path } from 'react-native-svg';
-    import Animated, { useAnimatedGestureHandler, useSharedValue, withSpring } from 'react-native-reanimated';
+    import Animated, { useAnimatedGestureHandler, useSharedValue } from 'react-native-reanimated';
 
     const colors = ['#FF0000', '#00FF00', '#0000FF', '#FFFF00', '#FF00FF', '#00FFFF', '#000000', '#FFFFFF'];
 
